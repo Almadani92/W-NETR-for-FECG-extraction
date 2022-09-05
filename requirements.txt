@@ -1,0 +1,11 @@
+torchsummaryX
+nibabel
+pillow 
+tensorboard
+gdown
+tqdm
+lmdb
+psutil
+pandas
+einops
+scikit-image
