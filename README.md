@@ -39,11 +39,11 @@ Finally, download the trained simulation and real corresponding models from the 
 
 The following plot show results on simulation dataset:
 
-![Image](images/synthetic_results.png)
+![simulation](images/synthetic_results.png)
 
 The following plot show results on real dataset:
 
-![Image1](images/real_results.png)
+![real](images/real_results.png)
 
 ### W-UNETR Notes from the authors:
 
