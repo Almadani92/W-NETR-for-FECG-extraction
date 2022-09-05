@@ -3,8 +3,6 @@
 (https://github.com/Project-MONAI/MONAI)
 https://arxiv.org/abs/2103.10504
 
-This is my "open-box" version if I want to modify the parameters for some particular task, while the two above are hard-coded. The monai 0.5.0 folder contains the previous versions based on the old monai version.
-
 *******************************************************************************
 ## Requirements
 Follow the steps in "installation_commands.txt". Installation via Anaconda and creation of a virtual env to download the python libraries and pytorch/cuda.
