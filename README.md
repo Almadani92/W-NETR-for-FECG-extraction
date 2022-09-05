@@ -25,7 +25,9 @@ Follow the steps in "installation_commands.txt". Installation via Anaconda and c
 ## Usage
 ### Folders structure:
 
-First run the "fetal-ecg-synthetic-database-1.0.0/generate_dataset.py" and "ADFECGDB/generate_dataset_real.py" to create organize the simulation and real data, respectively.
+First download the "fetal-ecg-synthetic-database-1.0.0" dataset and place its "sub01", "sub02", ...., "sub10" folders in the "fetal-ecg-synthetic-database-1.0.0/" directory.
+
+Second run the "fetal-ecg-synthetic-database-1.0.0/generate_dataset.py" and "ADFECGDB/generate_dataset_real.py" to create organize the simulation and real data, respectively.
 
 Then run the "fetal-ecg-synthetic-database-1.0.0/Dataset_gen2.py" and "ADFECGDB/Dataset_gen_real.py" to create the dataloader files for the simulation and real data, respectively.
 
