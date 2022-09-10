@@ -1,6 +1,6 @@
 
-1) set up anaconda env:    conda create -n monai_david python=3.8
-                           conda activate monai_david
+1) set up anaconda env:    conda create -n fecg_unetr python=3.8
+                           conda activate fecg_unetr
 
 2) install pytorch    conda install pytorch==1.5.0 torchvision==0.6.0 cudatoolkit=10.1 -c pytorch    # this for cuda (check your cuda version)
 2b)                   conda install pytorch==1.5.0 torchvision==0.6.0 cpuonly -c pytorch             # this for cpu
