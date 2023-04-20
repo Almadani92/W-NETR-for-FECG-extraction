@@ -1,5 +1,5 @@
-![W-UNETR-pipeline](images/full_pipeline.png)
-- W-UNETR is based on MONAI 0.7.0 : PyTorch-based, open-source frameworks for deep learning in healthcare signals. 
+![W-NETR-pipeline](images/full_pipeline.png)
+- W-NETR is based on MONAI 0.7.0 : PyTorch-based, open-source frameworks for deep learning in healthcare signals. 
 (https://github.com/Project-MONAI/MONAI)
 https://arxiv.org/abs/2103.10504
 
@@ -13,8 +13,8 @@ Follow the steps in "installation_commands.txt". Installation via Anaconda and c
 
 - init.py: List of options used to train the network. 
 
-- networks.py: The W-UNETR architecture for FECG extraction testing on simulation dataset.
-- networks_real.py: The W-UNETR architecture for FECG extraction testing on real dataset.
+- networks.py: The W-NETR architecture for FECG extraction testing on simulation dataset.
+- networks_real.py: The W-NETR architecture for FECG extraction testing on real dataset.
 
 
 - test_simulation.py: Runs the testing on simulation dataset.
@@ -45,8 +45,8 @@ The following plot show results on real dataset:
 
 ![real](images/real_results.png)
 
-### W-UNETR Notes from the authors:
+### W-NETR Notes from the authors:
 
-W-UNETR paper with more descriptions is now publicly available. Please check for more details:
-https://arxiv.org/pdf/XXXXXXX.pdf
+W-NETR paper with more descriptions is now publicly available. Please check for more details:
+Almadani, Murad, Leontios Hadjileontiadis, and Ahsan Khandoker. "One-Dimensional W-NETR for Non-invasive Single Channel Fetal ECG Extraction." IEEE Journal of Biomedical and Health Informatics (2023).
 
