@@ -38,7 +38,7 @@ class UNETR(nn.Module):
         conv_block: bool = True,
         res_block: bool = True,
         dropout_rate: float = 0.0,
-        spatial_dims: int = 3,
+        spatial_dims: int = 1,
     ) -> None:
         """
         Args:
