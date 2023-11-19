@@ -32,8 +32,8 @@ Second run the "fetal-ecg-synthetic-database-1.0.0/generate_dataset.py" and "ADF
 Then run the "fetal-ecg-synthetic-database-1.0.0/Dataset_gen2.py" and "ADFECGDB/Dataset_gen_real.py" to create the dataloader files for the simulation and real data, respectively.
 
 Finally, download the trained simulation and real corresponding models from the following links:
--https://drive.google.com/file/d/1g3off6VSUt1_mHnofg4FCao-RN7sCvQJ/view?usp=sharing
--https://drive.google.com/file/d/1ajsOulA9xUFgwgfvx3TeZFWx20iLXRxp/view?usp=sharing
+-https://drive.google.com/file/d/1NljEmZJaBb4hT3sLJ_HFAJDJhEt4HoJv/view?usp=sharing
+-https://drive.google.com/file/d/1wUzuZcAJmcaXPsYv-rgApjhke8mCuVZh/view?usp=sharing
 *******************************************************************************
 ### Results:
 
